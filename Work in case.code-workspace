@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../L33t"
+		},
+		{
+			"name": "L33t-Answers",
+			"path": "../L33t-Answers"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		},
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "Test",
+				"database": "postgres",
+				"username": "postgres"
+			}
+		]
+	}
+}
